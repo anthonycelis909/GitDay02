@@ -1,0 +1,8 @@
+package WebApp;
+
+public class HomePage {
+
+    // Setting up home page
+
+    // this is the nav menu
+}
